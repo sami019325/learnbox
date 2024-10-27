@@ -1,0 +1,101 @@
+[
+    {
+        "type": "বিকাশ",
+        "logoSrc": "https://i.ibb.co.com/yVYqzsk/BKash-Logo-icon.png",
+        "text": "",
+        "PlayerID": "playerIDCode110",
+        "dataID": [
+            {
+                "videoId": "কিভাবে বিকাশে লগইন করতে হয়?",
+                "playedVideo": false,
+                "videoTitle": "2rmYeyj9Veo"
+            },
+            {
+                "videoId": "কিভাবে বিকাশে ব্যাল্যান্স চেক করতে হয়?",
+                "playedVideo": false,
+                "videoTitle": "CuqxByiYG_0"
+            },
+            {
+                "videoId": "কিভাবে বিকাশে সেন্ড মানি করতে হয়?",
+                "playedVideo": false,
+                "videoTitle": "tP67rnR7EcM"
+            },
+            {
+                "videoId": "asfasf",
+                "playedVideo": false,
+                "videoTitle": "I6qBCeue7bA"
+            },
+            {
+                "videoId": "sfsd fghh",
+                "playedVideo": false,
+                "videoTitle": "cRLSKh5ridA"
+            }
+        ]
+    },
+    {
+        "type": "Tiktok",
+        "logoSrc": "./../../resources/play-key.png",
+        "text": "",
+        "PlayerID": "playerIDCode111",
+        "dataID": [
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "lhLh8N9YN7E"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "9Fcnzm_JhnQ"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "GLHKSXKyYCY"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "9Fcnzm_JhnQ"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "NRvgIKsKasA"
+            }
+        ]
+    },
+    {
+        "type": "YouTube",
+        "logoSrc": "ddd.com",
+        "text": "",
+        "PlayerID": "playerIDCode110",
+        "dataID": [
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "CuqxByiYG_0"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "j_RFXkUe7y0"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "cRLSKh5ridA"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "I6qBCeue7bA"
+            },
+            {
+                "videoId": "YOUR_VIDEO_ID_HERE",
+                "playedVideo": false,
+                "videoTitle": "cRLSKh5ridA"
+            }
+        ]
+    }
+]
